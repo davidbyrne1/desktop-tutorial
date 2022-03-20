@@ -1,0 +1,535 @@
+"INCIDENT_NUMBER","ENTRY_ID","SUBMITTER","CDATE","VENDOR_NAME","HR_SUBJECT_PERSON","VENDOR_GROUP","DESCRIPTION","DEC_NOTESNOQUOTES","REMEDY_LOGIN_ID2","HR_SUBJECT_PERSON_1","DEC_ALTEMAIL","RESOLVED_BY","ASSIGNED_GROUP","ASSIGNEE","ASSIGNED_GROUP_ID","INCSUMMARY"
+"INC000011398531","INC000006865783","greg.jeffrey","09/12/2021 10:04:35","","","","Cannot access DoE intranet sites on BYOD","Cannot access DoE intranet sites on BYOD iMac, logged into DETNSW. Google Chrome.
+'your connection is not private'
+No option to continue to website. Problem started yesterday.","suzanne.blunden","","","daniel.archibald1","ICTS Wollongong","daniel j archibald","SGP000000012049","INC000011398531 - Cannot access DoE intranet sites on BYOD (ICTS Wollongong)"
+"INC000011399744","INC000006867084","brendan.beavan","09/12/2021 14:15:25","","","","SALM Access","unable to access EBS at Nothbourne PS
+Was originally added at the bottom of AMU since removed and added as a casual. Provisioned in AMU for EBS including School Admin Manager
+when going to EBS and closing the Home tab then going to top left and selecting environment doesnt get the option for Northbourne PS. still showing Quaker Hill PS.
+removed access to Quakers Hill PS
+Cleared cache and restarted PC
+still only getting Quakers Hill PS
+Tried on Google Chrome and MS Edge","elizabeth.c.marshall","","","papri.chakravorty","IDM Support","papri chakravorty","SGP000000000914","INC000011399744 - SALM Access (IDM Support)"
+"INC000011400865","INC000006867767","kd_webuser","10/12/2021 08:12:39","","","","Web Browser URL Link Issue","What do you need help with : Access / Logon
+
+Description of issue : A previously accessible link in Google Chrome will now only work with explorer. How do I fix this?","robyn.millington","","","brent.black1","ICTS Macq Bathurst Mudgee","brent j black","SGP000000012056","INC000011400865 - Web Browser URL Link Issue (ICTS Macq Bathurst Mudgee)"
+"INC000011400860","INC000006867861","kye.webb4","10/12/2021 08:24:14","","","","RAHT - CareStart Dashboard Access Request","RAHT CareStart dashboard is showing Your login is not associated with any CareStart organisation. Please contact your organisations admin to request access
+
+ * Tested both Google Chrome and Edge
+ * Another staff member is able to see results for Rossmore PS.","melissa.button3","","","papri.chakravorty","IDM Support","papri chakravorty","SGP000000000914","INC000011400860 - RAHT - CareStart Dashboard Access Request (IDM Support)"
+"INC000011403203","INC000006869836","justin.pickering5","10/12/2021 15:24:58","","","","General Enquiry.","General Enquiry. 
+
+Assisted user with signing into Adobe Acrobat as well as exporting/importing bookmarks in Google Chrome. 
+Closing ticket.","nicola.thorp2","","","justin.pickering5","SD First Level","justin pickering","SGP000000000313","INC000011403203 - General Enquiry. (SD First Level)"
+"INC000011404097","INC000006870636","shumaiya.rezwan","13/12/2021 09:22:36","","","","SAP report error","As discussed with you today, you needed assistance with accessing your reports. 
+
+Please see a summary of the details of your query below:
+
+Caller details
+- Name: Nicholas Hall 
+- Contact number: 0412537363
+
+Browser being used: Google Chrome 
+
+Report name: Schools Overview Report
+
+SAP error message: Pop up blocker. 
+
+Further details: As discussed with you today, you were getting  pop up blocker error message while trying to access your sap report.","nicholas.hall","","","shumaiya.rezwan","Contact Centre","shumaiya rezwan","SGP000000000763","INC000011404097 - SAP report error (Contact Centre)"
+"INC000011406992","INC000006873005","shaymaa.mustafaali","14/12/2021 08:23:56","","","","SAP portal issue","As discussed with you today, unable to access some tabs in SAP GUI. 
+
+Please find a summary of the details of our conversation below:
+
+Caller details
+- Name: Pallavi
+- Contact number: 0451154600
+
+System details
+-  OS Version: Microsoft 10 Education 
+-  IP address: 192.168.1.109
+-  Build: COR_Windows 10 | 1909 v 1.0
+
+Browser being used: Google Chrome","pallavi.mudaliar","","","sam.newstead","SAP Lvl1 Support","sam newstead","SGP000000003518","INC000011406992 - SAP portal issue (SAP Lvl1 Support)"
+"INC000011407254","INC000006873219","amanda.powles1","14/12/2021 09:00:42","","","","Assistance with an Accounts Payable form","As discussed with you today, you have requested assistance with completing a prepayment form. 
+
+
+Please see a summary of the details of your query below:
+
+The prepayment form will not let you submit the form because the date of the invoice has passed. 
+You advised that you were using Google Chrome. 
+
+Forms work best in Internet Explorer. After switching to IE you were able to complete the form and submit it.","gai.m.oleary","","","amanda.powles1","Contact Centre","amanda powles","SGP000000000763","INC000011407254 - Assistance with an Accounts Payable form (Contact Centre)"
+"INC000011410422","INC000006875831","virginia.mckay3","15/12/2021 08:22:49","","","","Chrome > Application not launching","Able to logon to the device.
+When selecting Google Chrome the application will not launch. Shows as maximised.","vasiliki.terzis","","","virginia.mckay3","SD First Level","virginia mckay","SGP000000000313","INC000011410422 - Chrome > Application not launching (SD First Level)"
+"INC000011411374","INC000006876596","kye.webb4","15/12/2021 10:56:01","","","","SAP Popups","Pop ups in SAP are being blocked by Google Chrome.","vanessa.mallin","","","kye.webb4","SD First Level","kye webb","SGP000000000313","INC000011411374 - SAP Popups (SD First Level)"
+"INC000011412463","INC000006877934","lea.eukaliti1","15/12/2021 15:14:26","","yvonne.m.moss","","Error Messages when submitting Casual Timesheets","* Exact Error message, as appears in SAP window, and if multiple error list each error line: No error messages appear as the information input into the casual timesheet automatically disappears when selecting 'check' before submitting. The employee is Barry Briscoe 1362682 
+
+* Task being completed: Create and submit a timesheet 
+
+* Employee ID or PERS of staff member they are unable to submit:
+
+* Browser: Internet Explorer and Google Chrome 
+
+* Include screen shots of errors: N/A","yvonne.m.moss","yvonne.m.moss","","cheree.maloney","SSHR - Non-Teaching (SASS & Corporate) Bathurst - Lvl1","cheree maloney","SGP000000006321","INC000011412463 - Error Messages when submitting Casual Timesheets (SSHR - Non-Teaching (SASS & Corporate) Bathurst - Lvl1)"
+"INC000011413232","INC000006878258","jenny.chittick","16/12/2021 07:53:36","","","","ERN Registration unable to search for student","ERN problem when searching in ERN Registration for the following student
+error has occurred :SEP error etc
+
+Student: GRIVES, Josh
+DOB 18.08.2010
+SRN: 447949288
+
+tried on 2 different ERN logins
+using Google Chrome
+
+at Service Desk I get the sep error when I search for Josh in Registration
+In Statewide Search also get a SEP error when I search for Josh
+
+But when I login to Burraneer Bay PS (current school 2021) I can see details etc for Josh. All appears correct from perspective of Burraneer Bay PS","robyn.walker5","","","miriam.jaen3","SM Schools SALM","miriam jaen","SGP000000003118","INC000011413232 - ERN Registration unable to search for student (SM Schools SALM)"
+"INC000011413430","INC000006878524","kd_webuser","16/12/2021 08:31:20","","","","MMA - Access / Logon","What do you need help with : Access / Logon
+
+Description of issue : I need access to the following links
+
+https://online.test.det.nsw.edu.au/stwrp/2021
+https://online.test.det.nsw.edu.au/stwrp/2021/region
+https://online.test.det.nsw.edu.au/stwrp/admin
+
+
+I'm getting an error as attached, I'm logged into both Google Chrome and the portal.
+
+Confluence
+https://confluence.education.nsw.gov.au/display/UIP/School+to+Work+Program
+
+
+Don't have a login for
+
+Please let me know who I need to get permissions from to access this content.
+
+Thanks
+
+Attachment : access_error.GIF","steve.mather1","","","craig.evans20","SD First Level","craig evans","SGP000000000313","INC000011413430 - MMA - Access / Logon (SD First Level)"
+"INC000011413621","INC000006878492","dean.steward1","16/12/2021 08:53:07","","","","Install Google Chrome onto these 5 ET4L File1 Servers","We need to install Google Chrome onto the following 5 et4l servers.
+
+This is required for sharegate installation moving forward, for migrating to Faculty to MS Sharepoint.
+
+School Name	Site Code	Server Name
+Walcha Central School	3340	3340dip000sf001.detnsw.win
+South Wagga Public School	3333	3333dip000sf001.detnsw.win
+Bald Blair Public School	1098	1098dip000sf001.detnsw.win
+Ebor Public School	1814	1814dip000sf001.detnsw.win
+Uranquinty Public School	1499	1499dip000sf001.detnsw.win","dean.steward1","","","dean.steward1","DDaC - Desktop Platforms - Development","dean steward","SGP000000020323","INC000011413621 - Install Google Chrome onto these 5 ET4L File1 Servers (DDaC - Desktop Platforms - Development)"
+"INC000011413590","INC000006878814","kye.webb4","16/12/2021 09:24:18","","","","Reinstallation of apps.","Account has recently been merged and the NetworkID has changed. Now missing chrome bookmarks and apps previously installed.
+
+Requesting:
+ * Moving of the Google Chrome Bookmarks from previous NetworkID (treynoldsadd1).
+ * Installation of Microsoft Teams desktop version, software centre fails.
+ * Installation of Citrix","taylor.reynoldsaddo","","","","Field Services Support","jarrah dixon","SGP000000000847","INC000011413590 - Reinstallation of apps. (Field Services Support)"
+"INC000011413882","INC000006878847","kd_webuser","16/12/2021 09:37:24","","","","Equipment > Disposal","Equipment Type : Notebook
+Staff type : Other
+Room number : ER1008
+Remove after this date : 16/12/2021
+Request information : Can we please have the following Google Chromebooks unenrolled from the Google Chromebook Managed licenses as we are transferring outright ownership of this device to a student.
+
+S/N:       5CD9413MLJ
+           5CD94503F5","peter.howes","","","renier.nel","DDaC - Desktop Platforms - Support","renier nel","SGP000000020225","INC000011413882 - Equipment > Disposal (DDaC - Desktop Platforms - Support)"
+"INC000011414416","INC000006879276","gerard.oxley","16/12/2021 10:53:37","","","","User Cannot Access Staff Portal","Customer advised that he cannot access the Staff Portal from his personal computer. Goes to website education.nsw.gov.au and when clicks log in immediately gets error this site can't be reached. He can access the portal from his mobile phone and his DoE device, only has the problem on this device. Customer has tried Google Chrome and Lenovo browsers, does not have Firefox installed.
+
+David advised that he has had to return his work pc and needs to be able to log on using this pc for work. 
+
+Lenovo Idea pad S145
+
+Escalated to Regional Support, please assist customer if possible.","david.kerrigan9","","","ted.osborne","ICTS Dural","hamed jomaa","SGP000000011822","INC000011414416 - User Cannot Access Staff Portal (ICTS Dural)"
+"INC000011415157","INC000006879965","sejal.mokaria","16/12/2021 13:20:52","","stacey.walsh8","","How to Process Temporary Staff Movement/Higher Duties","As discussed with you today, you needed assistance with Temporary Staff Movement as you were getting three blue loading dots and it wasn't searching the personnel assignment 1123302.
+
+As advised you have tried using Google Chrome and Microsoft Edge and it did not work and was getting the same three blue dots. Please submit the Manual Higher duties form and please advise the incident number on the form.","stacey.walsh8","stacey.walsh8","","sejal.mokaria","Contact Centre","sejal mokaria","SGP000000000763","INC000011415157 - How to Process Temporary Staff Movement/Higher Duties (Contact Centre)"
+"INC000011415269","INC000006879981","kd_webuser","16/12/2021 13:29:59","","","","Equipment > Disposal","Equipment Type : Notebook
+Staff type : Other
+Room number : ER1008
+Remove after this date : 16/12/2021
+Request information : 
+Can we please have the following Google Chromebooks unenrolled from the Google Chromebook Managed licenses as we are transferring outright ownership of this device to a student.
+S/N: 5CD0434Y8V","peter.howes","","","renier.nel","DDaC - Desktop Platforms - Support","renier nel","SGP000000020225","INC000011415269 - Equipment > Disposal (DDaC - Desktop Platforms - Support)"
+"INC000011415774","INC000006880434","kd_webuser","16/12/2021 15:07:27","","","","Network > Unable to connect to the Internet","How many computers are affected? : One computer
+On the computers affected are you able to access the Intranet? : Yes
+Is your PAC file correct? : Yes
+Request Information : Not sure what the PAC file is.  Anyway I have tried to download Google Chrome and can't.  It appears now the SSHR Inbox is playing up and I cannot see work coming in that others that have Chrome can see.  Can someone ring me and screen share please to get Google Chrome installed tomorrow for me.  Ph at home 0404 306 948","ann.mcintosh-shields","","","kerrie.davis8","ICTS Callaghan/Port Stephens","kerrie l davis","SGP000000012057","INC000011415774 - Network > Unable to connect to the Internet (ICTS Callaghan/Port Stephens)"
+"INC000011416230","INC000006880873","anthony.ou2","17/12/2021 07:45:10","","","","Account Merge","http error 500 server error. Trying to get on just to change profile in the portal. Personal Byod machine. Chrome.
+
+Client called back. WFH. He had his password reset and trying to login to the Staff Portal to change his 'Preferred first name' to hopefully change his email address/username.
+
+When he tries to login with Nicholas.Poullos3 and the password he was given at 7:40AM this morning he gets 'http error 500 server error'. Is using Google Chrome. Tried clearing cache and resetting his password again @ 8:32AM, issue persists. Replicated the issue in Edge. I have replicated the issue on my end as well. 
+
+Nicholas.Poullos3
+Name - Preferred :  Nicholas
+Name - First :  Nicos
+Name - Last :   Poullos
+Gender :    M
+UserID - DEC :  Nicholas.Poullos3
+UserID - Network :  npoullos
+DEC UserID (Former) :   Nicholas.Poullos
+Email - Staff : Nicholas.Poullos3@det.nsw.edu.au
+DEC Role(s) :   SCHOOL.CASUALTEACHER
+SCHOOL.TEACHER.APPLICANT.APPROVED
+CEPS Employee ID :  354099
+CEPS Employee Status :  20211216
+CEPS Designation :  CLAST
+CEPS Designation Desc : Classroom Teachers
+CEPS Personnel Group :  TCH
+CEPS Location No(s) :   3797
+CEPS Location Name(s) : Oatley West Public School
+
+List of respective domain(s) and their password sync status
+EXT :   17/12/2021 07:40:52 SUCCESS
+IDMWIN  :   17/12/2021 07:40:49 SUCCESS
+DETNSW  :   17/12/2021 07:40:52 SUCCESS
+
+
+Update: Checked in UAP - Primary email matches DoE user ID : False - user provisioning in progress. Followed KBA00087202 but no button to  [Re-Process Address Lists] button at the bottom of the page. Is this not enabled yet for O365 accounts?
+Logging to SD Second Level to check before escalating to Messaging.","nicholas.poullos3","","","david.cairns5","DDaC Collaboration - Messaging","dave cairns","SGP000000000836","INC000011416230 - Account Merge (DDaC Collaboration - Messaging)"
+"INC000011417226","INC000006881500","shumaiya.rezwan","17/12/2021 10:30:09","","","","SAP portal issue - Adobe Form does not load in Internet Exporer","As discussed with you today, you are needing assistance with your sap inbox. 
+
+Please find a summary of the details of our conversation below:
+
+Caller details
+- Name: Luke Hubbert 
+- Contact number: 9628 6655
+
+Browser being used: Internet Explorer, Google Chrome, Edge 
+
+Further details: As discussed with you today, you have cleared the cookies and cache and also single sign in to Adobe app however you are unable to approve a Business Partner Maintenane Form through your SAP inbox on IE or Chrome. 
+
+The computer name is 3CF011029E1EP, however it is off site at the moment, but is currently online.","luke.hubbert","","","","ICTS Eastern Creek","simon lloyd","SGP000000012021","INC000011417226 - SAP portal issue - Adobe Form does not load in Internet Exporer (ICTS Eastern Creek)"
+"INC000011418747","INC000006882905","mark.herrera3","17/12/2021 16:00:36","","","","Staff Email > Download Google Chrome to access Staff Email","Staff Email > Download Google Chrome to access Staff Email. If still having issues accessing Staff Email via Safari on a Mac device can download Google Chrome for Mac.","catherine.sutton8","","","mark.herrera3","SD First Level","mark a herrera","SGP000000000313","INC000011418747 - Staff Email > Download Google Chrome to access Staff Email (SD First Level)"
+"INC000011419200","INC000006883100","kye.webb4","20/12/2021 07:52:06","","","","Timed out.","When visiting emails, SAP Reports and Sentral, most staff have been getting a Session timed out within both Edge and Google Chrome occasionally. This is currently occurring at Camden High School.","lynnette.dillon3","","","awais.ahmad","ICTS Macarthur","awais ahmad","SGP000000012041","INC000011419200 - Timed out. (ICTS Macarthur)"
+"INC000011419419","INC000006883331","shaymaa.mustafaali","20/12/2021 08:55:46","","","","SAP portal issue","As discussed with you today, you no longer have access to purchase to pay. You require this for your Covid Taskforce Admin Officer Position.  You would like to find out why your access has suddenly stopped. You also held a position at the Warilla office and this has lapsed, would like to confirm if access was attached to  that position.
+
+Please find a summary of the details of our conversation below:
+
+Caller details
+- Name: Eleanor 
+- Contact number:0457 128 861
+
+System details
+-  OS Version: Miocrosoft Windows 10 education 
+-  IP address: 192.168.1.105
+-  Build: COR_windows10 1909 v 1.0 
+
+Browser being used: Google Chrome (also no tab in IE)","eleanor.garthwin","","","sam.newstead","SAP Lvl1 Support","sam newstead","SGP000000003518","INC000011419419 - SAP portal issue (SAP Lvl1 Support)"
+"INC000011419947","INC000006883694","linda.dominic1","20/12/2021 10:40:37","","gisella.lozanozapatel","","Mobile Device Order","As discussed with you today, you advised that you are trying to complete a form for the purchase of a mobile phone but experiencing issues.
+
+Please find a summary of the details of your query below:
+
+Caller details
+- Name: Gisella Lozanozapatel
+- Contact number: 0447 565 540
+
+Further information: You advise the dropdown arrow for the selection of the Mobile phone is not working. 
+
+I have tried it in Google Chrome and experienced no issues.  You were using Microsoft Edge and when you tried Chrome, you were able to select the dropdown box.
+
+Please feel free to contact EDConnect if you require any further assistance.","gisella.lozanozapatel","gisella.lozanozapatel","","linda.dominic1","Contact Centre","linda dominic","SGP000000000763","INC000011419947 - Mobile Device Order (Contact Centre)"
+"INC000011425338","INC000006887893","kd_webuser","23/12/2021 09:06:20","","","","Software > Request","Computer name : B831B5987A05P
+Computer IP address : 192.168.137.1
+Request Information : Please update my default browser to Google Chrome. I tried do this myself but I do not have admin access to update this.","michael.aras","","","shane.mccool2","Field Services Support","shane mccool","SGP000000000847","INC000011425338 - Software > Request (Field Services Support)"
+"INC000011430254","INC000006891763","shaymaa.mustafaali","10/01/2022 07:35:05","","","","SAP portal issue","As discussed with you today, when launching SAP GUI there is a blue screen with spinning white dots. 
+
+Please find a summary of the details of our conversation below:
+
+Caller details
+- Name: Marie 
+- Contact number: 7814 1048
+
+System details
+-  OS Version: Microsoft Windows 10 Education 
+-  IP address: 192.168.0.72
+-  Build: COR_Windows 10 | 1909 v1.0
+
+Browser being used: Google Chrome","","","","AR_ESCALATOR","IAP - Citrix Apps","","SGP000000000874","INC000011430254 - SAP portal issue (IAP - Citrix Apps)"
+"INC000011431185","INC000006892594","tuan.deres","10/01/2022 11:37:46","","elizabeth.hanko3","","SAP HR | SASS | CORP | Unable to accept contract / No Inbox or SAP ESS access","You called today requesting assistance with accepting your tem[porary engagment via SAP. 
+
+USER ID: Elizabeth.hanko3
+PERS ID: 1312396
+
+Customer is unable to accept their new Temp contract due to one of the following:-
+
+ - returning to work under a Temp Contract however unable to accept as they are missing the action item on SAP inbox - showing no items currently avalable. 
+
+Screen shots from SAP Portal home page, error messages to be included. Currently using Google Chrome as per advise from previous remedy INC11422402.","elizabeth.hanko3","elizabeth.hanko3","","bruce.tagud1","HR Contact Centre - SAP HR Functional","bruce tagud","SGP000000017526","INC000011431185 - SAP HR | SASS | CORP | Unable to accept contract / No Inbox or SAP ESS access (HR Contact Centre - SAP HR Functional)"
+"INC000011432552","INC000006893538","sam.keary","11/01/2022 09:16:05","","","","SAP portal issue","As discussed with you today, you were having issues logging into your SAP Portal. 
+
+Please find a summary of the details of our conversation below:
+
+Caller details
+- Name: Robyn Steggles
+- Contact number: 0408 258 833
+
+Browser being used: Google Chrome
+
+Further details: Together we have cleared your cache and cookies and you were able to re-access your SAP Portal.","robyn.steggles","","","sam.keary","Contact Centre","sam keary","SGP000000000763","INC000011432552 - SAP portal issue (Contact Centre)"
+"INC000011432622","INC000006893730","deana.teuruaa3","11/01/2022 10:23:32","","simon.purdy","","SAP technical issue","As discussed with you today, you are trying to access SAP however you are receiving an error message 
+
+Please see a summary of the details of your query below:
+
+Caller details
+- Name: Simon Purdy
+- Contact number: 0436923096
+
+Browser being used: Google Chrome","simon.purdy","simon.purdy","","dayal.roy","SAP Lvl2 SRM and Procurement","dayal roy","SGP000000000772","INC000011432622 - SAP technical issue (SAP Lvl2 SRM and Procurement)"
+"INC000011436134","INC000006896237","shaymaa.mustafaali","13/01/2022 10:49:55","","","","SAP purchasing error","As discussed with you today, you are trying to raise a shopping cart for the value of $4,453,000.00. You are trying to send it to the group deputy secretary (Relieving) Simone Walker (S  81344813) position ID P  01432364
+
+Please see a summary of the details of your query below:
+
+Caller details
+- Name: Gai 
+- Contact number: 02 7814 3756
+
+Browser being used: Google Chrome 
+
+SAP error message: Unable to locate Simone as alternate approver.","gai.m.oleary","","","sam.newstead","SAP Lvl1 Support","sam newstead","SGP000000003518","INC000011436134 - SAP purchasing error (SAP Lvl1 Support)"
+"INC000011436167","INC000006896261","rachel.valencia","13/01/2022 11:06:16","","","","CRQ98801 - Please upload XML file required for Chrome Legacy Browser Support","Hi Team, I am currently organizing a pilot change to implement IE Mode (MS Edge) and Legacy Browser Support (Google Chrome). This implementation will require an XML file uploaded to sysvol.
+
+We would like to request for a resource who will help us create the following locations
+
+\\detnsw.win\sysvol\DETNSW.WIN\UD_Scripts\Pilot\IEMode\
+\\detnsw.win\sysvol\DETNSW.WIN\UD_Scripts\Production\IEMode\
+
+and upload IEmodesitelist.xml to both locations. I have included these in the scope of CRQ000000098801. We will provide the XMlL file closer to the scheduled date. Thanks!","rachel.valencia","","","stephen.montano","DDaC - Desktop Platforms - Development","rachel valencia","SGP000000020323","INC000011436167 - CRQ98801 - Please upload XML file required for Chrome Legacy Browser Support (DDaC - Desktop Platforms - Development)"
+"INC000011436208","INC000006896298","greg.jeffrey","13/01/2022 11:32:09","","","","Cannot access SAP>Personal Details. Code not received","Cannot access SAP>Personal Details
+MFA not sending 6 digit code to personal mobile number and email address. Message - 'A 6 digit security code has been sent to your email...and your mobile number...'
+and when tries to send again 'seems to be a problem re sending code'
+Have tried Google Chrome and 
+Not in junk email folder
+
+SMU details:
+UserID - DEC :	Samantha.Jebbett1
+Personal Mobile :	0422731096
+Personal Email :	sandpj72@hotmail.com","samantha.jebbett1","","","vasuki.thirunavukkarasu","IDM Support","vasuki thirunavukkarasu","SGP000000000914","INC000011436208 - Cannot access SAP>Personal Details. Code not received (IDM Support)"
+"INC000011437929","INC000006897637","sejal.mokaria","14/01/2022 11:37:41","","rebecca.hunt","","Accept Contract in SAP","•	ID Number: 1064352
+
+•	Full Name: Rebecca Hunt
+
+•	Contact Number: 0405149687
+
+•	Email: rebecca.hunt@det.nsw.edu.au
+
+•	Query: As discussed with you today, you needed assistance with accepting Contract in SAP Portal. As you were getting a pop-up blocker message.
+
+As advised you logged into Google Chrome and access SAP Portal and you were able to accept contract successfully.","rebecca.hunt","rebecca.hunt","","sejal.mokaria","Contact Centre","sejal mokaria","SGP000000000763","INC000011437929 - Accept Contract in SAP (Contact Centre)"
+"INC000011439146","INC000006898559","deana.teuruaa3","17/01/2022 09:33:40","","william.j.white","","Temp Staff Movement  | SAP HR | Error Messages","Experiencing error message in SAP MSS when submitting Temporary Staff Movement Service request.
+
+* Exact Error message, as appears in SAP window, and if multiple error list each error line:
+
+* Task being completed: Temp staff movement from a teacher to a head teacher 
+
+* Employee ID or PERS of staff member they are unable to submit: 1147628 - Heather Gilchrist 
+
+* Browser: IE / Google Chrome 
+
+* Include screen shots of errors: Y","william.j.white","william.j.white","","","Contact Centre","deana teuruaa","SGP000000000763","INC000011439146 - Temp Staff Movement  | SAP HR | Error Messages (Contact Centre)"
+"INC000011439868","INC000006899061","shaymaa.mustafaali","17/01/2022 12:12:27","","","","SAP portal issue","As discussed with you today, you are unable to open a task that you were trying to forward a task to another colleague and system crashed mid way. Unable to open the task as locked by yourself. 
+
+Please find a summary of the details of our conversation below:
+
+Caller details
+- Name: Lyna
+- Contact number: 0411368382
+
+System details
+-  OS Version: Mircosoft Windows 10 Education 
+-  IP address:  192.168.1.11
+-  Build: ITU_Windows 1909 V2.0
+
+Browser being used: Google Chrome","ly.tran27","","","dan.engreso1","Enterprise SAP","dan engreso","SGP000000000767","INC000011439868 - SAP portal issue (Enterprise SAP)"
+"INC000011440179","INC000006899302","kd_webuser","17/01/2022 13:28:22","","","","Change Default browser","Request type : Issue
+Email Services : Update Outlook details
+Computer name : 192.168.1.22
+Username: Helena.AsherChiang@det.nsw.edu.au
+Request Information : Please allow for Google Chrome to be the default internet opening from emails on my computer it is currently opening from internet explorer","helena.asherchiang","","","david.neubeck1","SD First Level","david neubeck","SGP000000000313","INC000011440179 - Change Default browser (SD First Level)"
+"INC000011441479","INC000006900429","brendan.beavan","18/01/2022 10:11:17","","","","Portal change password","Client trying to change her password from the portal but page flashing when trying to change.
+Tab showing Streamline Portals flashing.
+Tried accessing through Profile Centre and Update My Password with same result
+
+Tried on Google Chrome and MS Edge. cache cleared on both
+restarted PC","marcia.vandam","","","","User Interface and Portal","","SGP000000000911","INC000011441479 - Portal change password (User Interface and Portal)"
+"INC000011441591","INC000006900644","sejal.mokaria","18/01/2022 11:17:21","","alison.essam4","","SAP purchasing error","As discussed with you today, you needed assistance with clearing the error message appearing when you are trying to create confirmation against limit order 4003937770.
+
+Please see a summary of the details of your query below:
+
+Caller details
+- Name: Alison Essam
+- Contact number: 0298299222
+
+Browser being used: Google Chrome
+
+SAP error message: Action could not be performed..
+
+Further details: We have advised you to Update the Requester and Recipient in the limit order to clear the error message. You have advised that there is no one who will be able to approve the limit order after the changes have been made and not possible to change the requester and recipient in each and every purchase order and it would result in delay in processing the payments.
+
+We have forwarded your query to the specialist team for further assistance.","alison.essam4","alison.essam4","","dayal.roy","SAP Lvl2 SRM and Procurement","dayal roy","SGP000000000772","INC000011441591 - SAP purchasing error (SAP Lvl2 SRM and Procurement)"
+"INC000011443353","INC000006901993","anthony.ou2","19/01/2022 09:08:06","","","","Problem Signing into office 365 BYOD desktop","At home. Downloaded Office 365 and installed from DoE website on his BYOD PC.  Unable to login to word/one-drive after clicking on the shortcut that appears after office 365 was installed. Is setup on his laptop and working correctly but not on the PC.  He was not going via the portal > learning tools.
+
+When trying to sign in with david.christinson3@det.nsw.edu.au he gets the error: 
+
+Your organisation has been disabled your device
+Error: CAA2003
+
+David.Christinson3
+Name - First :	David
+Name - Middle :	George
+Name - Last :	Christinson
+Gender :	M
+UserID - DEC :	David.Christinson3
+UserID - Network :	dchristinso1
+Email - Staff :	David.Christinson3@det.nsw.edu.au
+DEC Role(s) :	SCHOOL.TEACHER
+PEPS Employee ID :	1223265
+PEPS Employee Status :	C
+PEPS Location No :	8362
+PEPS Location Name :	Maclean High School
+PEPS Location No. Parent :	312
+PEPS Location Name Parent :	Clarence/Coffs Harbour
+PEPS Position Name :	Teacher
+PEPS Position Level Code :	TCH
+PEPS Position Level Code Desc :	Teacher
+
+IDM DashBoard:
+DETActiveRoles / detAttribute15
+SCHOOL.TEACHER
+homePostalAddress equals DONOTSYNC = Not found
+DETDUDSystemUserName / sAMAccountName
+dchristinso1
+
+Device Type - PC, MAC, Tablet: PC
+Operating System and version: Windows 10  
+Browser and Browser version: Google Chrome
+
+Contact: 0492 842 336","david.christinson3","","","","SD Second Level","andrew payne","SGP000000012824","INC000011443353 - Problem Signing into office 365 BYOD desktop (SD Second Level)"
+"INC000011443686","INC000006902144","kd_webuser","19/01/2022 09:34:52","","","","Website Filtering > Allow a URL","Exact website URL : api.meld.cx + content.nightlife.com.au + more 
+Reason: RE: INC000010330002
+CrowdDJ system is having issues retrieving updates. Contacted their support and they're saying not all ports are open for the system. Attached is their Network Requirements PDF.
+
+Can you check if these are open to the media player and kiosk?
+CrowdDJ Media Player
+Connected to: 08880ur0007eshp02 - Port 31 - 10.173.240.247
+CrowdDJ Kiosk
+Connected to: 08880ur0007eshp01 - Port C19
+
+Meld CX
+Destination URL			Ports		Direction
+api.meld.cx			80, 443		Outbound
+socket.meld.cx			80, 443		Outbound
+apps.meld.cx			80, 443		Outbound
+
+Google Chrome
+chrome.google.com		80, 443		Outbound
+clients2.googleusercontent.com	80, 443		Outbound
+lh4.ggpht.com			80, 443		Outbound
+lh4.ggpht.com			80, 443		Outbound
+lh5.ggpht.com			80, 443		Outbound
+lh6.ggpht.com			80, 443		Outbound
+googleapis.l.google.com		80, 443		Outbound
+mobile-gtalk.l.google.com	80, 443		Outbound
+
+Nightlife Content
+content.nightlife.com.au
+144.217.247.192			80, 443		Outbound 
+Attachment: Nightlife Network Requirements.pdf","timothy.maloney6","","","bhagi.sisodiya","Operations.T4L - Networks","bhagi sisodiya","SGP000000018725","INC000011443686 - Website Filtering > Allow a URL (Operations.T4L - Networks)"
+"INC000011450611","INC000006907517","brendan.beavan","24/01/2022 09:01:47","","","","Portal access","Client has an inactive account but using her DoE employee account details to log in but only gets a blank page. extranet doesnt load but tab show Inside the Department.
+
+Google Chrome cache cleared
+Tried clients account using Firefox with the same result
+
+Screenshot attached","elizabeth.russell","","","","User Interface and Portal","","SGP000000000911","INC000011450611 - Portal access (User Interface and Portal)"
+"INC000011450582","INC000006907553","anthony.ou2","24/01/2022 09:17:52","","1397961","","system error - technical exception not available","Calling from home. Reporting he is getting system error after he enters in the code for MFA system trying to access Personal Profile in SAP. 
+
+Tried on Google Chrome/Edge MFA - issue persists.
+
+Is able to access SAP homepage without error. 
+
+Not across multiple positions. Just the one school. As PPOSE shows. Why is he getting this error? Please investigate.
+
+Matthew.Hayes46
+Name - First :	Matthew
+Name - Middle :	Harry
+Name - Last :	Hayes
+Gender :	M
+UserID - DEC :	Matthew.Hayes46
+UserID - Network :	MHAYES55
+Email - Staff :	Matthew.Hayes46@det.nsw.edu.au
+DEC Role(s) :	SCHOOL.TEACHER
+SCHOOL.CASUALTEACHER
+
+PEPS Employee ID :	1397961
+PEPS Employee Status :	C
+PEPS Location No :	8262
+PEPS Location Name :	Ingleburn High School
+PEPS Location No. Parent :	321
+PEPS Location Name Parent :	Liverpool
+PEPS Position Name :	Teacher
+PEPS Position Level Code :	TCH
+PEPS Position Level Code Desc :	Teacher
+
+CEPS Employee ID :	524455
+CEPS Employee Status :	20211217
+CEPS Designation :	CLAST
+CEPS Designation Desc :	Classroom Teachers
+CEPS Personnel Group :	TCH
+CEPS Location No(s) :	8262
+CEPS Location Name(s) :	Ingleburn High School","matthew.hayes46","1397961","","","SD First Level","","SGP000000000313","INC000011450582 - system error - technical exception not available (SD First Level)"
+"INC000011450660","INC000006907579","linda.dominic1","24/01/2022 09:28:05","","rebekka.klevjer","","SAP HR | Teacher | Unable to accept contract / No Inbox for separated / new / returning staff","As discussed with you today, you requested assistance with accepting your Temporary Engagement.
+
+USER ID: 1128819
+
+- Contact: Rebekka Klevjer
+- Contact number: (02) 4244 4087 - Mobile: 0478 222  566
+
+You are unable to accept your new Temp contract due to one of the following:-
+
+ - New to the department not yet paid in SAP
+
+-  You have been able to log into SAP but unable to Open Task.  You were using Safari on a Mac laptop,  however, I have requested you to try Google Chrome.  When you do, you are receiving an error message User session timed out.
+
+You advise that you had been trying to accept the Contract previous to the Xmas holidays and had contacted the School regarding this.  They had been advised that it is better to accept the Contract in SAP rather than it be accepted on your behalf.
+
+You will forward a screenshot of the SAP error message.","rebekka.klevjer","rebekka.klevjer","","","HR Contact Centre - SAP HR Functional","bruce tagud","SGP000000017526","INC000011450660 - SAP HR | Teacher | Unable to accept contract / No Inbox for separated / new / returning staff (HR Contact Centre - SAP HR Functional)"
+"INC000011451046","INC000006907814","kd_webuser","24/01/2022 10:10:36","","","","Software > Issues (eg. errors)","Computer name : 1C697A39DB5EP
+Computer IP address : 10.217.1.216
+Request Information : I am using Microsoft Edge and have gone into SAP and I am trying to run a report and get an error message. I have cleared the history through settings. I can run the report through Internet Explorer however i get the same error when using Google Chrome. Thank you in advance for any assistance that you can give. 
+Add an attachment : Microsoft Edge.PNG","gaye.moses","","","allan.meredith","ICTS Macq Bathurst Mudgee","allan meredith","SGP000000012056","INC000011451046 - Software > Issues (eg. errors) (ICTS Macq Bathurst Mudgee)"
+"INC000011450876","INC000006907835","kye.webb4","24/01/2022 10:17:14","","george.williams3","","Your session has timed out","Getting an error message Your session has timed out after clicking on Open Task within the SAP Portal.
+
+ * Logging into Staff Portal using George.Williams3
+ * Accepting temp contract via Staff Portal > SAP Portal > Home > My Inbox > Selecting Task > Open Task. 
+ * Using Google Chrome on personal Laptop.
+ * Tested using Internet Explorer on personal device. Still the same result.
+ * Accepting a temporary contract for Walgett Community Col HS. Has existing Active contract that expires on the 3rd February 2022.
+
+Best Contact: 0434054027","george.williams3","george.williams3","","","HR Contact Centre - SAP HR Functional","natalie muscat","SGP000000017526","INC000011450876 - Your session has timed out (HR Contact Centre - SAP HR Functional)"
+"INC000011451525","INC000006908175","kd_webuser","24/01/2022 11:30:18","","","","Software > Issues (eg. errors)","BAU is being disrupted to the customer. Customer a new starter and requires access to complete Business as Usual Activities to assist with close of pay - please assist
+
+Computer name : F06E0BBC5CFBP
+Computer IP address : 172.20.80.228
+Request Information : Can't launch SAP GUI Citrix error
+
+SAP - 'Cannot Start app - SAP-SSO NP1-EXT' for SAP Gui
+
+Citrix workspace is installed
+
+Customer using Google Chrome to launch
+
+Please assist.
+
+Workaround:
+
+https://access.citrix.det.nsw.edu.au/vpn/index.html","amanda.blanch7","","","","IAP - Citrix Apps","","SGP000000000874","INC000011451525 - Software > Issues (eg. errors) (IAP - Citrix Apps)"
+"INC000011455103","INC000006910973","anthony.ou2","25/01/2022 14:08:56","","","","problem opening office 365","WFH School laptop. Unable to get into Office 365 in Google Chrome. Tested in Microsoft Edge and confirmed customer was able to log on successfully.
+
+0456e560cd68p","robyn.tomlin","","","anthony.ou2","SD First Level","anthony ou","SGP000000000313","INC000011455103 - problem opening office 365 (SD First Level)"
+"INC000011455907","INC000006911579","lesley.dobson","27/01/2022 07:30:39","","lesley.dobson","","Google Chrome remedy product has disappeared","Hey Guys, 
+
+It seems that Google Chrome product under has gone missing.  Not sure how that happens or if accidentally removed, but it used to be there and is attached to all our KBA's etc.
+
+Can we please have it re-added back exactly the way it was please, so we don't have to edit ALL our KBA's. Fingers crossed that is enough to not foul up the taxonomy!  Let's see
+
+Tier 1 - Applications
+Tier 2 - Desktop
+Tier 3 - Browser
+Product - Google Chrome","lesley.dobson","lesley.dobson","","","Service Management Applications Support","david byrne","SGP000000000850","INC000011455907 - Google Chrome remedy product has disappeared (Service Management Applications Support)"

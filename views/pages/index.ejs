@@ -1,0 +1,215 @@
+<%- include('../partials/head') %>
+<%- include('../partials/header') %>
+
+<div class="row mt-5">
+    <div class="col-md-6 m-auto">
+      <div class="card card-body">
+        <h1 class="text-center mb-3">
+          <i class="fas fa-user-plus"></i> Create Networks ticket---
+        </h1>
+     
+       <% var Assigned_Group="Operations.T4L - Networks";
+       var Assigned_Support_Company="ICT Service Management";
+       var Assigned_Support_Organization="ITD-IS";
+       var Categorization_Tier_1="Performance";
+       var Closure_Manufacturer="ICT Service Management";
+       var Closure_Product_Category_Tier1="Networking";
+       var Closure_Product_Category_Tier2="Internet";
+       var Closure_Product_Category_Tier3="n/a";
+       var Closure_Product_Name="Internet";
+       var First_Name="david";
+       var Impact="4-Minor/Localized";
+       var Last_Name="byrne";
+       var Product_Categorization_Tier_1="Networking";
+       var Product_Categorization_Tier_2="Internet";
+       var Product_Categorization_Tier_3="n/a";
+       var Product_Name="Internet";
+       var Reported_Source="Other";
+       var Service_Type="User Service Request";
+       var Status="New";
+       var Action="CREATE";
+       var Summary="Network Issue";
+       var Notes="Network Issue";
+       var Urgency="4-Low";
+       var Work_Info_Summary="Worklog";
+       var Work_Info_Notes="Network Issue";
+       var Work_Info_Type=1000;
+       var Work_Info_Date="2021-01-19T09:55:50";
+       var Work_Info_Source="Other";
+       var Work_Info_Locked="Yes";
+       var Work_Info_View_Access="Public";
+       var WorkInfoAttachment1Name="File";
+       var file1;
+       var Status_Reason="1000";
+       var Login_ID="david.byrne1";
+       var ApprovalRequired=false;
+      var Approver="";
+        var ApprovedDate="";
+  
+       
+       %>
+  
+        <form action="/" method="POST" enctype="multipart/form-data">
+          <div class="form-group">
+              <div class="form-group">
+                  
+                  <input type="text" name="_text1abel" readonly value="Summary1"/>
+                  <input
+                    type="text"
+                    id="text1"
+                    name="_text1"
+                    class="form-control"
+                  
+                    
+                  />
+                </div>
+                <div class="form-group">
+                  <input type="text" name="_text2label" readonly value="Summary2"/>
+                  <input
+                    type="text"
+                    id="text2"
+                    name="text2"
+                    class="form-control"
+                  
+                    
+                  />
+                </div>
+                <div class="form-group">
+                  <input type="text" name="_text3label" readonly value="Summary3"/>
+                  <input
+                    type="text"
+                    id="text3"
+                    name="text3"
+                    class="form-control"
+                   
+                    
+                  />
+                </div>
+  
+                <div class="form-group">
+                  <input type="text" name="_text4label" readonly value="Summary3"/>
+                  <input
+                    type="text"
+                    id="text4"
+                    name="text4"
+                    class="form-control"
+                   
+                    
+                  />
+                </div>
+
+
+
+                <div class="form-group">
+                  <label id="label4" for="file1">Choose a profile picture:</label>
+                  <input
+                    type="file"
+                    id="file1"
+                    name="file1"
+                    class="form-control"
+                    
+                   
+                    
+                  />
+                </div>
+
+                <div class="form-group">
+                  <label id="label4" for="file1">Choose a 2nd profile picture:</label>
+                  <input
+                    type="file"
+                    id="file1"
+                    name="file1"
+                    class="form-control"
+                    
+                   
+                    
+                  />
+                </div>
+
+                <div class="form-group">
+                  <label id="label4" for="file1">Choose a 3rd profile picture:</label>
+                  <input
+                    type="file"
+                    id="file1"
+                    name="file1"
+                    class="form-control"
+                    
+                   
+                    
+                  />
+                </div>
+  
+                <div><button onclick="join_ym()">Click me</button></div>
+  
+                <script type="text/javascript">
+                  function join_ym()
+                  {
+                    //var label = $("label[for='" + $(this).attr('text1') + "']");
+                    var label =document.getElementById('label1').innerText
+  
+  
+                  var yy = label+':'+document.getElementById('text1').value;
+  
+                  var label2 =document.getElementById('label2').innerText
+  
+  
+                  var yy2 = label2+':'+document.getElementById('text2').value;
+  
+                  
+                  
+                  document.getElementById('Notes').value = yy+'\n'+yy2;
+                  document.getElementById('Work_Info_Notes').value = yy+'\n'+yy2;
+                  //alert(yy);
+                  }
+                  </script>
+                  <div class="form-group"><input type="hidden" id="Assigned_Group" name="Assigned_Group" class="form-control" value="<%= Assigned_Group  %>"/></div>
+                  <div class="form-group"><input type="hidden" id="Assigned_Support_Company" name="Assigned_Support_Company" class="form-control" value="<%= Assigned_Support_Company  %>"/></div>
+                  <div class="form-group"><input type="hidden" id="Assigned_Support_Organization" name="Assigned_Support_Organization" class="form-control" value="<%= Assigned_Support_Organization  %>"/></div>
+                  <div class="form-group"><input type="hidden" id="Categorization_Tier_1" name="Categorization_Tier_1" class="form-control" value="<%= Categorization_Tier_1  %>"/></div>
+                  <div class="form-group"><input type="hidden" id="Closure_Manufacturer" name="Closure_Manufacturer" class="form-control" value="<%= Closure_Manufacturer  %>"/></div>
+                  <div class="form-group"><input type="hidden" id="Closure_Product_Category_Tier1" name="Closure_Product_Category_Tier1" class="form-control" value="<%= Closure_Product_Category_Tier1  %>"/></div>
+                  <div class="form-group"><input type="hidden" id="Closure_Product_Category_Tier2" name="Closure_Product_Category_Tier2" class="form-control" value="<%= Closure_Product_Category_Tier2  %>"/></div>
+                  <div class="form-group"><input type="hidden" id="Closure_Product_Category_Tier3" name="Closure_Product_Category_Tier3" class="form-control" value="<%= Closure_Product_Category_Tier3  %>"/></div>
+                  <div class="form-group"><input type="hidden" id="Closure_Product_Name" name="Closure_Product_Name" class="form-control" value="<%= Closure_Product_Name  %>"/></div>
+                  <div class="form-group"><input type="hidden" id="First_Name" name="First_Name" class="form-control" value="<%= First_Name  %>"/></div>
+                  <div class="form-group"><input type="hidden" id="Impact" name="Impact" class="form-control" value="<%= Impact  %>"/></div>
+                  <div class="form-group"><input type="hidden" id="Last_Name" name="Last_Name" class="form-control" value="<%= Last_Name  %>"/></div>
+                  <div class="form-group"><input type="hidden" id="Product_Categorization_Tier_1" name="Product_Categorization_Tier_1" class="form-control" value="<%= Product_Categorization_Tier_1  %>"/></div>
+                  <div class="form-group"><input type="hidden" id="Product_Categorization_Tier_2" name="Product_Categorization_Tier_2" class="form-control" value="<%= Product_Categorization_Tier_2  %>"/></div>
+                  <div class="form-group"><input type="hidden" id="Product_Categorization_Tier_3" name="Product_Categorization_Tier_3" class="form-control" value="<%= Product_Categorization_Tier_3  %>"/></div>
+                  <div class="form-group"><input type="hidden" id="Product_Name" name="Product_Name" class="form-control" value="<%= Product_Name  %>"/></div>
+                  <div class="form-group"><input type="hidden" id="Reported_Source" name="Reported_Source" class="form-control" value="<%= Reported_Source  %>"/></div>
+                  <div class="form-group"><input type="hidden" id="Service_Type" name="Service_Type" class="form-control" value="<%= Service_Type  %>"/></div>
+                  <div class="form-group"><input type="hidden" id="Status" name="Status" class="form-control" value="<%= Status  %>"/></div>
+                  <div class="form-group"><input type="hidden" id="Action" name="Action" class="form-control" value="<%= Action  %>"/></div>
+                  <div class="form-group"><input type="hidden" id="Summary" name="Summary" class="form-control" value="<%= Summary  %>"/></div>
+                  <div class="form-group"><input type="hidden" id="Notes" name="Notes" class="form-control" value="<%= Notes  %>"/></div>
+                  <div class="form-group"><input type="hidden" id="Urgency" name="Urgency" class="form-control" value="<%= Urgency  %>"/></div>
+                  <div class="form-group"><input type="hidden" id="Work_Info_Summary" name="Work_Info_Summary" class="form-control" value="<%= Work_Info_Summary  %>"/></div>
+                  <div class="form-group"><input type="hidden" id="Work_Info_Notes" name="Work_Info_Notes" class="form-control" /></div>
+                  <div class="form-group"><input type="hidden" id="Work_Info_Type" name="Work_Info_Type" class="form-control" value="<%= Work_Info_Type  %>"/></div>
+                  <div class="form-group"><input type="hidden" id="Work_Info_Date" name="Work_Info_Date" class="form-control" value="<%= Work_Info_Date  %>"/></div>
+                  <div class="form-group"><input type="hidden" id="Work_Info_Source" name="Work_Info_Source" class="form-control" value="<%=  Work_Info_Source %>"/></div>
+                  <div class="form-group"><input type="hidden" id="Work_Info_Locked" name="Work_Info_Locked" class="form-control"  value="<%=  Work_Info_Locked %>"/></div>
+                  <div class="form-group"><input type="hidden" id="WorkInfoAttachment1Name" name="WorkInfoAttachment1Name" class="form-control"  value="<%= WorkInfoAttachment1Name %>"/></div>
+                  
+                  <div class="form-group"><input type="hidden" id="Work_Info_View_Access" name="Work_Info_View_Access" class="form-control" value="<%= Work_Info_View_Access  %>"/></div>
+                  <div class="form-group"><input type="hidden" id="Status_Reason" name="Status_Reason" class="form-control" value="<%= Status_Reason  %>"/></div>
+                  <div class="form-group"><input type="hidden" id="Login_ID" name="Login_ID" class="form-control" value="<%= Login_ID  %>"/></div>
+                  <div class="form-group"><input type="hidden" id="ApprovalRequired" name="ApprovalRequired" class="form-control" value="<%=  ApprovalRequired %>" /></div>
+                  <div class="form-group"><input type="hidden" id="Approver" name="Approver" class="form-control"/></div>
+                  <div class="form-group"><input type="hidden" id="ApprovedDate" name="ApprovedDate" class="form-control" /></div>
+          </div>
+          <button type="submit" class="btn btn-primary btn-block">
+            Register
+          </button>
+        </form>
+       
+      </div>
+    </div>
+  </div>
+  
+</div>
+
+
+<%- include('../partials/footer') %>
